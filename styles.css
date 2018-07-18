@@ -1,0 +1,20 @@
+.links {
+  text-align: justify;
+}
+
+.courses {
+  width: 100%;
+  black-title text-align: left;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+.footer {
+  position: relative;
+  left: 0;
+  bottom: 100%;
+  width: 100%;
+  background-color: gray;
+  color: white;
+  text-align: center;
+}
